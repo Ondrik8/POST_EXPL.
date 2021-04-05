@@ -1,5 +1,26 @@
 ![post](post.gif)
 
+#### https://github.com/moonD4rk/HackBrowserData
+
+### Windows
+| Browser                             | Password | Cookie | Bookmark | History |
+| :---------------------------------- | :------: | :----: | :------: | :-----: |
+| Google Chrome |    ✅    |   ✅   |    ✅    |    ✅    |
+| Google Chrome Beta |    ✅    |   ✅   |    ✅    |    ✅    |
+| Chromium |    ✅    |    ✅    |    ✅    |    ✅    |
+| Microsoft Edge |    ✅    |   ✅   |    ✅    |    ✅    |
+| 360 Speed |    ✅    |   ✅   |    ✅    |    ✅    |
+| QQ |    ✅    |   ✅   |    ✅    |    ✅    |
+| Brave |    ✅    |   ✅   |    ✅    |    ✅    |
+| Opera |    ✅    |    ✅    |    ✅    |    ✅    |
+| OperaGX |    ✅    |    ✅    |    ✅    |    ✅    |
+| Vivaldi |    ✅    |    ✅    |    ✅    |    ✅    |
+| Firefox |    ✅    |   ✅   |    ✅    |    ✅    |
+| Firefox Beta |    ✅    |   ✅   |    ✅    |    ✅    |
+| Firefox Dev |    ✅    |   ✅   |    ✅    |    ✅    |
+| Firefox ESR |    ✅    |   ✅   |    ✅    |    ✅    |
+| Firefox Nightly |    ✅    |   ✅   |    ✅    |    ✅    |
+| Internet Explorer |    ❌    |   ❌   |    ❌    |    ❌    |
 
 
 #### https://github.com/lgandx/PCredz
