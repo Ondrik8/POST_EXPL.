@@ -1,4 +1,8 @@
-![post](post.gif)
+<p align="center">
+  <a>   
+    <img src="/post.gif" width="500" height="600">
+  </a>
+</p>
 
 
 # Reverse Proxy
