@@ -1,7 +1,7 @@
 <p align="center">
-  <a>   
+  <body>   
     <img src="post.gif" width="1000" height="600">
-  </a>
+  </body>
 </p>
 
 
