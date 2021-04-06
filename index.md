@@ -1,6 +1,6 @@
 <p align="center">
   <a>   
-    <img src="/post.gif" width="1000" height="600">
+    <img src="https://github.com/Ondrik8/POST_EXPL./blob/gh-pages/post.gif" width="1000" height="600">
   </a>
 </p>
 
