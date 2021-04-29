@@ -10,6 +10,15 @@ https://github.com/antonioCoco/RemotePotato0
 <img src="https://github.com/antonioCoco/RemotePotato0/demo.gif">
 
 
+# AVinfo
+````
+WMIC /Node:localhost /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get displayName /Format:List
+
+
+
+Get-CimInstance -Namespace root/SecurityCenter2 -ClassName AntiVirusProduct
+````
+
 # Reverse Proxy
 
 #### https://github.com/ffay/lanproxy
