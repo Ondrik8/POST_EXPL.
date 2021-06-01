@@ -31,6 +31,8 @@ Lanproxy - это инструмент проникновения в интра�
 
 # Steal pass|cookies
 
+### https://github.com/LimerBoy/Adamantium-Thief
+
 #### https://github.com/moonD4rk/HackBrowserData
 
 ### Windows
